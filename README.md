@@ -1,13 +1,18 @@
-# Getting Started with Create React App
+Intern Frontend Assesment Task
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Completed all the required tasks
+- Create project using React and css
 
-## Available Scripts
+[BONUS POINTS]
+- Client-side form validation
+- Dummy logic to update cart totals when quantity changes
+- Add animations or transitions
 
-In the project directory, you can run:
+2. How to install
+npm install
 
-### `npm start`
+3. start the development server
+npm start
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+4. open in browser
+http://localhost:3000
